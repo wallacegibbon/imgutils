@@ -1,0 +1,21 @@
+{
+	"name": "@moontoad/imgutils",
+	"version": "0.1.0",
+	"author": {
+		"name": "Wallace",
+		"email": "wallacegibbon@outlook.com"
+	},
+	"engines": {
+		"node": ">=8.0.0"
+	},
+	"bin": {
+		"fileserver": "./bin/imgnoise.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/wallacegibbon/imgutils.git"
+	},
+	"dependencies": {
+		"sharp": "^0.24.0"
+	}
+}
