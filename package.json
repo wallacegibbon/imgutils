@@ -1,6 +1,6 @@
 {
 	"name": "@moontoad/imgutils",
-	"version": "0.1.0",
+	"version": "0.1.2",
 	"author": {
 		"name": "Wallace",
 		"email": "wallacegibbon@outlook.com"
@@ -9,7 +9,7 @@
 		"node": ">=8.0.0"
 	},
 	"bin": {
-		"fileserver": "./bin/imgnoise.js"
+		"imgnoise": "./bin/imgnoise.js"
 	},
 	"repository": {
 		"type": "git",
